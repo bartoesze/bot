@@ -1,0 +1,1 @@
+[null,{"name":"BotGame","temp":"5","event-type":"3","actions":[{"gameName":"Właściciel bota to Lemon#7286","gameLink":"","name":"Set Bot Game"},{"time":"5","measurement":"1","name":"Wait"},{"gameName":"Mój Domyślny Prefix to .","gameLink":"","name":"Set Bot Game"},{"time":"5","measurement":"1","name":"Wait"},{"call":"1","name":"Jump to Action"}]}]
